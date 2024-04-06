@@ -1,6 +1,1 @@
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Gabriel&show_icons=true&theme=radical">
-</div>
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/768998589938270220)
